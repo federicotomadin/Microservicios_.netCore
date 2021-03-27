@@ -1,0 +1,12 @@
+C:\Users\Tangol\source\repos\Microservicios\Catalog.Persistance.Database\bin\Debug\netcoreapp3.1\Catalog.Persistance.Database.deps.json
+C:\Users\Tangol\source\repos\Microservicios\Catalog.Persistance.Database\bin\Debug\netcoreapp3.1\Catalog.Persistance.Database.dll
+C:\Users\Tangol\source\repos\Microservicios\Catalog.Persistance.Database\bin\Debug\netcoreapp3.1\Catalog.Persistance.Database.pdb
+C:\Users\Tangol\source\repos\Microservicios\Catalog.Persistance.Database\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\Tangol\source\repos\Microservicios\Catalog.Persistance.Database\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\Tangol\source\repos\Microservicios\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.csprojAssemblyReference.cache
+C:\Users\Tangol\source\repos\Microservicios\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.AssemblyInfoInputs.cache
+C:\Users\Tangol\source\repos\Microservicios\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.AssemblyInfo.cs
+C:\Users\Tangol\source\repos\Microservicios\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.csproj.CoreCompileInputs.cache
+C:\Users\Tangol\source\repos\Microservicios\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.csproj.CopyComplete
+C:\Users\Tangol\source\repos\Microservicios\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.dll
+C:\Users\Tangol\source\repos\Microservicios\Catalog.Persistance.Database\obj\Debug\netcoreapp3.1\Catalog.Persistance.Database.pdb

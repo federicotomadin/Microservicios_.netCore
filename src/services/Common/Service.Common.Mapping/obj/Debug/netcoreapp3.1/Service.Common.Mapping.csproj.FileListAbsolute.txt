@@ -1,0 +1,9 @@
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Mapping\bin\Debug\netcoreapp3.1\Service.Common.Mapping.deps.json
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Mapping\bin\Debug\netcoreapp3.1\Service.Common.Mapping.dll
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Mapping\bin\Debug\netcoreapp3.1\Service.Common.Mapping.pdb
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.csprojAssemblyReference.cache
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.AssemblyInfoInputs.cache
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.AssemblyInfo.cs
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.dll
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Mapping\obj\Debug\netcoreapp3.1\Service.Common.Mapping.pdb

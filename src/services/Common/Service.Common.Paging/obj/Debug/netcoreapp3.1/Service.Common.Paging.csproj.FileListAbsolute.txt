@@ -1,0 +1,12 @@
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfoInputs.cache
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfo.cs
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.deps.json
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.dll
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.pdb
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csprojAssemblyReference.cache
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CoreCompileInputs.cache
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CopyComplete
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.dll
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.pdb

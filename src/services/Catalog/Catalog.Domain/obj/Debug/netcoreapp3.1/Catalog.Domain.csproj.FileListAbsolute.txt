@@ -1,0 +1,9 @@
+C:\Users\Tangol\source\repos\Microservicios\src\services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.deps.json
+C:\Users\Tangol\source\repos\Microservicios\src\services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\Tangol\source\repos\Microservicios\src\services\Catalog\Catalog.Domain\bin\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\Tangol\source\repos\Microservicios\src\services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.AssemblyInfoInputs.cache
+C:\Users\Tangol\source\repos\Microservicios\src\services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.AssemblyInfo.cs
+C:\Users\Tangol\source\repos\Microservicios\src\services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Tangol\source\repos\Microservicios\src\services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.dll
+C:\Users\Tangol\source\repos\Microservicios\src\services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.pdb
+C:\Users\Tangol\source\repos\Microservicios\src\services\Catalog\Catalog.Domain\obj\Debug\netcoreapp3.1\Catalog.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.deps.json
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csprojAssemblyReference.cache
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfoInputs.cache
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfo.cs
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csproj.CoreCompileInputs.cache
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.dll
+C:\Users\Tangol\source\repos\Microservicios\src\services\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.pdb
